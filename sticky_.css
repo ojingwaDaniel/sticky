@@ -1,0 +1,41 @@
+.header{
+    position: sticky;
+    top: 0;
+    border-bottom: 2px solid black;
+    text-align: center;
+    background-color:bisque;
+    padding: 20px;
+    margin: 0;
+    color: black;
+}
+.images{
+    margin-top: 20px;
+    margin-left: 500px;
+  
+}
+body{
+    background:url(image.jpg);
+    background-size: cover;
+    color: white;
+    /* overflow: hidden; */
+}
+p{
+    font-size: 25px;
+}
+.one{
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+    position: relative;
+    top: 20px;
+    
+}
+.text{
+    position: absolute;
+    bottom: 0cm;
+    font-size: 30px;
+    left: 50px;
+    
+
+}
