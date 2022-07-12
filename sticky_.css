@@ -17,10 +17,11 @@ body{
     background:url(image.jpg);
     background-size: cover;
     color: white;
+
     /* overflow: hidden; */
 }
 p{
-    font-size: 25px;
+    font-size: 20px;
 }
 .one{
     background-size: cover;
